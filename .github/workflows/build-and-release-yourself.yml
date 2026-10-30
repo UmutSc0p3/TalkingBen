@@ -29,7 +29,7 @@ env:
 
 jobs:
   inject:
-    runs-on: macos-latest
+    runs-on: avrea-macos-latest-8-vcpu
     permissions:
       contents: write
     steps:
